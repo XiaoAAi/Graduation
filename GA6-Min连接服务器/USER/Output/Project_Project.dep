@@ -1,0 +1,235 @@
+Dependencies for Project 'Project', Target 'Project': (DO NOT MODIFY !)
+F (.\main.c)(0x5BC9D676)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (..\BSP\includes.h)(0x5BC99A05)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+I (..\BSP\USART\usart.h)(0x5BC980D8)
+I (..\BSP\SysTick\SysTick.h)(0x5BC9993E)
+I (..\USER\stm32f10x_it.h)(0x5BC9D363)
+I (..\BSP\GPRS\gprs.h)(0x5BC9CE28)
+I (..\BSP\TIMER\timer.h)(0x5BC991EA)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (..\BSP\Key\key.h)(0x5BC5A978)
+F (..\BSP\includes.h)(0x5BC99A05)()
+F (.\stm32f10x_it.c)(0x5BC9D561)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\stm32f10x_it.o --omf_browse .\output\stm32f10x_it.crf --depend .\output\stm32f10x_it.d)
+I (stm32f10x_it.h)(0x5BC9D363)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+I (..\BSP\GPRS\gprs.h)(0x5BC9CE28)
+I (..\BSP\includes.h)(0x5BC99A05)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (..\BSP\USART\usart.h)(0x5BC980D8)
+I (..\BSP\SysTick\SysTick.h)(0x5BC9993E)
+I (..\USER\stm32f10x_it.h)(0x5BC9D363)
+I (..\BSP\TIMER\timer.h)(0x5BC991EA)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (..\BSP\Key\key.h)(0x5BC5A978)
+F (.\stm32f10x_it.h)(0x5BC9D363)()
+F (..\BSP\USART\usart.c)(0x5BC9D301)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\usart.o --omf_browse .\output\usart.crf --depend .\output\usart.d)
+I (..\BSP\USART\usart.h)(0x5BC980D8)
+I (..\BSP\includes.h)(0x5BC99A05)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+I (..\BSP\SysTick\SysTick.h)(0x5BC9993E)
+I (..\USER\stm32f10x_it.h)(0x5BC9D363)
+I (..\BSP\GPRS\gprs.h)(0x5BC9CE28)
+I (..\BSP\TIMER\timer.h)(0x5BC991EA)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (..\BSP\Key\key.h)(0x5BC5A978)
+F (..\BSP\USART\usart.h)(0x5BC980D8)()
+F (..\BSP\Key\key.c)(0x5BC5A978)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\key.o --omf_browse .\output\key.crf --depend .\output\key.d)
+I (..\BSP\Key\key.h)(0x5BC5A978)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+I (..\BSP\SysTick\SysTick.h)(0x5BC9993E)
+I (..\USER\stm32f10x_it.h)(0x5BC9D363)
+I (..\BSP\GPRS\gprs.h)(0x5BC9CE28)
+I (..\BSP\includes.h)(0x5BC99A05)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (..\BSP\USART\usart.h)(0x5BC980D8)
+I (..\BSP\TIMER\timer.h)(0x5BC991EA)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+F (..\BSP\Key\key.h)(0x5BC5A978)()
+F (..\BSP\SysTick\SysTick.c)(0x5BC9D06B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\systick.o --omf_browse .\output\systick.crf --depend .\output\systick.d)
+I (..\BSP\SysTick\SysTick.h)(0x5BC9993E)
+I (..\USER\stm32f10x_it.h)(0x5BC9D363)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+I (..\BSP\GPRS\gprs.h)(0x5BC9CE28)
+I (..\BSP\includes.h)(0x5BC99A05)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (..\BSP\USART\usart.h)(0x5BC980D8)
+I (..\BSP\TIMER\timer.h)(0x5BC991EA)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (..\BSP\Key\key.h)(0x5BC5A978)
+F (..\BSP\SysTick\SysTick.h)(0x5BC9993E)()
+F (..\BSP\TIMER\timer.c)(0x5BC5A978)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\timer.o --omf_browse .\output\timer.crf --depend .\output\timer.d)
+I (..\BSP\TIMER\timer.h)(0x5BC991EA)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+F (..\BSP\TIMER\timer.h)(0x5BC991EA)()
+F (..\BSP\GPRS\gprs.c)(0x5BC9CF1C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\gprs.o --omf_browse .\output\gprs.crf --depend .\output\gprs.d)
+I (..\BSP\GPRS\gprs.h)(0x5BC9CE28)
+I (..\BSP\includes.h)(0x5BC99A05)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+I (..\BSP\USART\usart.h)(0x5BC980D8)
+I (..\BSP\SysTick\SysTick.h)(0x5BC9993E)
+I (..\USER\stm32f10x_it.h)(0x5BC9D363)
+I (..\BSP\TIMER\timer.h)(0x5BC991EA)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (..\BSP\Key\key.h)(0x5BC5A978)
+F (..\BSP\GPRS\gprs.h)(0x5BC9CE28)()
+F (..\LIB\src\misc.c)(0x5BC5A979)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\misc.o --omf_browse .\output\misc.crf --depend .\output\misc.d)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+F (..\LIB\src\stm32f10x_exti.c)(0x5BC5A979)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\stm32f10x_exti.o --omf_browse .\output\stm32f10x_exti.crf --depend .\output\stm32f10x_exti.d)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+F (..\LIB\src\stm32f10x_gpio.c)(0x5BC5A979)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\stm32f10x_gpio.o --omf_browse .\output\stm32f10x_gpio.crf --depend .\output\stm32f10x_gpio.d)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+F (..\LIB\src\stm32f10x_rcc.c)(0x5BC5A979)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\stm32f10x_rcc.o --omf_browse .\output\stm32f10x_rcc.crf --depend .\output\stm32f10x_rcc.d)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+F (..\LIB\src\stm32f10x_tim.c)(0x5BC5A979)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\stm32f10x_tim.o --omf_browse .\output\stm32f10x_tim.crf --depend .\output\stm32f10x_tim.d)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+F (..\LIB\src\stm32f10x_usart.c)(0x5BC5A979)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\stm32f10x_usart.o --omf_browse .\output\stm32f10x_usart.crf --depend .\output\stm32f10x_usart.d)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+F (..\CMSIS\core_cm3.c)(0x5BC5A978)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\core_cm3.o --omf_browse .\output\core_cm3.crf --depend .\output\core_cm3.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+F (..\CMSIS\system_stm32f10x.c)(0x5BC5A978)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\LIB\inc -I ..\CMSIS -I ..\BSP\SysTick -I ..\BSP\Key -I ..\BSP\USART -I ..\BSP\TIMER -I ..\BSP -I ..\BSP\GPRS -I ...\BSP\LED-I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F10X_MD-o .\output\system_stm32f10x.o --omf_browse .\output\system_stm32f10x.crf --depend .\output\system_stm32f10x.d)
+I (..\CMSIS\stm32f10x.h)(0x5BC5A978)
+I (..\CMSIS\core_cm3.h)(0x5BC5A978)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\system_stm32f10x.h)(0x5BC5A978)
+I (..\USER\stm32f10x_conf.h)(0x5BC5A978)
+I (..\LIB\inc\stm32f10x_exti.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_gpio.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_rcc.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_tim.h)(0x5BC5A979)
+I (..\LIB\inc\stm32f10x_usart.h)(0x5BC5A979)
+I (..\LIB\inc\misc.h)(0x5BC5A978)
+F (..\CMSIS\startup\arm\startup_stm32f10x_md.s)(0x4D783CD2)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Project-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 523" --pd "STM32F10X_MD SETA 1"--list .\listing\startup_stm32f10x_md.lst --xref -o .\output\startup_stm32f10x_md.o --depend .\output\startup_stm32f10x_md.d)
